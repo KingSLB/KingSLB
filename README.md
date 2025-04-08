@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/KingSLB/KingSLB/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingSLB/KingSLB/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KingSLB/KingSLB/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KingSLB/KingSLB/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Selby Bhembe
