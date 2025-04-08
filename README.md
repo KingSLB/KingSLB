@@ -43,3 +43,7 @@ I have studied IT for 4 years and majored well in programming and programming la
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/slbxking"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+<img src="https://raw.githubusercontent.com/KingSLB/KingSLB/output/snake.svg" alt="Snake animation" />
+
+###
