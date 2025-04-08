@@ -46,4 +46,8 @@ src="https://img.shields.io/twitter/follow/BhembeSelby?logo=twitter&style=for-th
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/slbxking"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
