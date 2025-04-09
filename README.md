@@ -8,7 +8,11 @@ Game Developer, IT Support Technician
 
 <p align="center">I have studied IT for 4 years and majored well in programming and programming languages. Currently learning new languages to up my skill and hoping to learn more from other experts out there :)</p>
 
-![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/user-attachments/assets/e03c11a3-26f4-4e71-9c4a-a15d103c0e70)
+<div align="center"> 
+  
+![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/user-attachments/assets/e03c11a3-26f4-4e71-9c4a-a15d103c0e70) 
+
+</div>
 
 <h1></h1>
 
@@ -51,3 +55,5 @@ src="https://img.shields.io/twitter/follow/BhembeSelby?logo=twitter&style=for-th
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/slbxking"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+
