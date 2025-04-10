@@ -1,6 +1,6 @@
 ![MyBanner](https://github.com/user-attachments/assets/253495c3-8991-40bc-b7e4-d24f5c379c6a)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Selby Bhembe
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Selby Andile Bhembe
 ====================================================================================================================================
 
 Game Developer, IT Support Technician
